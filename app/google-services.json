@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836579577540",
+    "project_id": "registerapp-213ae",
+    "storage_bucket": "registerapp-213ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836579577540:android:4aecc99442fa30fc3a8391",
+        "android_client_info": {
+          "package_name": "com.ibnu.registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836579577540-oieibiuopo875ufsaq8rnihn7lcslcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOdo4bJT-zcS2tZnrUSocUFc-jkXBRbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836579577540-oieibiuopo875ufsaq8rnihn7lcslcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
